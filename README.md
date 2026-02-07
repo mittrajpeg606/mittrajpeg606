@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm a java developer
 
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" height="200px" width="300px">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="200px" width="300px">
 
 - 🌱 Currently contributing at Tata Consultancy Services Ltd.
 - 👯 I’m looking for my next career growth opportunity
