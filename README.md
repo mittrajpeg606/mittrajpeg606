@@ -5,5 +5,5 @@
 
 - 🌱 Currently contributing at Tata Consultancy Services Ltd.
 - 👯 I’m looking for my next career growth opportunity
-- 📫 Reach me: [linkedin.com/in/priyaanshu-mittra](https://in.linkedin.com/in/priyaanshu-mittra-9bb0961b9) 
+- 📫 Reach me: [linkedin.com/in/priyaanshu-mittra](https://www.linkedin.com/in/priyaanshu-mittra/) 
 - 📫 Reach me: 📧 [mittrajpeg606@gmail.com](mailto:mittrajpeg606@gmail.com)
