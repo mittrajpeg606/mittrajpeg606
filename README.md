@@ -4,6 +4,7 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="200px" width="300px">
 
 - 🌱 Currently contributing at Tata Consultancy Services Ltd.
+- 💸 Currently Building StreamPay.
 - 👯 I’m looking for my next career growth opportunity
 - 📫 Reach me: [linkedin.com/in/priyaanshu-mittra](https://www.linkedin.com/in/priyaanshu-mittra/) 
 - 📫 Reach me: 📧 [mittrajpeg606@gmail.com](mailto:mittrajpeg606@gmail.com)
