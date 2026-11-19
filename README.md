@@ -7,4 +7,4 @@
 - 💸 Currently Building StreamPay.
 - 👯 I’m looking for my next career growth opportunity
 - 📫 Reach me: [linkedin.com/in/priyaanshu-mittra](https://www.linkedin.com/in/priyaanshu-mittra/) 
-- 📫 Reach me: 📧 [mittrajpeg606@gmail.com](mailto:mittrajpeg606@gmail.com)
+- 📫 Reach me: 📧 [priyaanshu.mittra7@gmail.com](mailto:priyaanshu.mittra7@gmail.com) / [mittrajpeg606@gmail.com](mailto:mittrajpeg606@gmail.com)
